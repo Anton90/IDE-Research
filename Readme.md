@@ -19,3 +19,6 @@ Knowing that the choice of IDE is really personal, I hope that this is the best 
 * It can take a while to launch, which could get frustrating after a while.
 * File search can be fairly slow on large projects/files.
 * VSC can take up a lot of memory to run.
+
+The most important reason why i chose this IDE is because it supports a lot of languages on all platforms.   
+Which means that I'll be able to use it for all of our future projects, even when switching between computers with different OS's. Added to this is the fact that it's a fairly new program with regular updates. Which means that it'll probably only get better. 
