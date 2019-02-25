@@ -7,7 +7,7 @@ I'm certain that after using this for a while, I'll be able to form my own opini
 Knowing that the choice of IDE is really personal, I hope that this is the best one for me and I like using it.
 
 #### _Advantages:_
-* A lot of programming languages are supported, including the ones we'll be using most like HTML, JS, CSS, PHP, ...
+* A lot of programming languages are supported, including the ones we'll be using most, like HTML, JS, CSS, PHP, ...
 * It's really easy to customize and set it up to make your coding easy and fast.
 * There is a big community behind it, which means that assistance when problems arise is readily available, as well as tutorials for learning how to use this platform.
 * VSC has many features that are ready to go out of the box.
