@@ -1,8 +1,8 @@
 ### I am choosing **VSC** to use as an IDE.  
 The download link is [Visual Studio Code](https://code.visualstudio.com/download)
 
-After researching several different programs to use, I came to this conclusion because of the multitude of advantages it has over most of the other ones.
-Of course, this is based purely on the opinions and reviews of others.
+After researching several different programs to use, I came to this conclusion because of the multitude of advantages it has over most of the other ones.  
+Of course, this is based purely on the opinions and reviews of others.  
 I'm certain that after using this for a while, I'll be able to form my own opinion. Knowing that the choice of IDE is really personal, I hope that this is the best one for me and I like using it.
 
 #### _Advantages:_
